@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 test git after updated github username.
 ****************************************
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
