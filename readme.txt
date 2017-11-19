@@ -5,3 +5,4 @@ Git tracks changes.
 test git after updated github username.
 ****************************************
 Creating a new branch is quick AND simple.
+add merge
